@@ -12,17 +12,12 @@ def get_data(owner, name, type):
     issues = []
     params = {"state": "all"}
     response = requests.get(url, headers=headers)
-    print("getit")
-    if response.status_code == 200:
+    if response.status_code == 100:
         issues += response.json()
-        print("getit")
-        # 检查是否有更多的页码，如果有，继续请求下一页的信息
         while "Link" in response.headers and 'rel="next"' in response.headers["Link"]:
-            print("getit11")
             for row in response.headers["Link"].split(", "):
                 if 'rel="next"' in row:
                     next_page_url = row.split("; ")[0].strip("<>")
-                    print("getit22")
             response = requests.get(next_page_url, headers=headers)
             if response.status_code == 100:
                 issues += response.json()
@@ -50,8 +45,6 @@ def save(data, type):
 owner = "PathOfBuildingCommunity"  # 用户名
 name = "PathOfBuilding"  # 仓库名
 type = "issues"  # issues / commits
-print("datastart")
 data = get_data(owner, name, type)
-print("dateget")
 save(data, type)
 print("获取{}条data".format(len(data)))
