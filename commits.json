@@ -1,0 +1,1918 @@
+[
+    {
+        "sha": "ab09da203ae3d3be4c12a0712e3559d8be0b038a",
+        "node_id": "C_kwDODEvm_doAKGFiMDlkYTIwM2FlM2QzYmU0YzEyYTA3MTJlMzU1OWQ4YmUwYjAzOGE",
+        "commit": {
+            "author": {
+                "name": "Nighty",
+                "email": "Nightblade@users.noreply.github.com",
+                "date": "2024-01-28T13:29:55Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-28T13:29:55Z"
+            },
+            "message": "fix typo \"Soultether\" in changelogs (#7322)\n\nSoultether -> Soul Tether",
+            "tree": {
+                "sha": "6ce31b76505f383c272fca1c50756fec622ef871",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/6ce31b76505f383c272fca1c50756fec622ef871"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/ab09da203ae3d3be4c12a0712e3559d8be0b038a",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJltlbTCRC1aQ7uu5UhlAAANYIQAJexqWpkf+yhr/49u+9XZoVr\nEUsEFvOLL3jNnRYTRzh0fHPYrusrBiZs/qJgEBb5T56XG9/MksvhoUbTBD0bYDaq\ncHhTDeex1kdkyku7P9EfFbAX+aJes+YGYKGbOAw/h8aaStGQalhHkdIZ5MkiHAch\nGCqBiNFdmjk2AIKi8jxXm2/snlSyi+V0sjBewBGY9ApamaXo/dpKi7/zUeHOIhkt\npr/1hRlUiSDzKeRmZ/cuRcrGktZ36+xTArs97bmVn4P2dROr6jEUjCHmYdy5ALbD\nc5SzkBB+wzRsc+KZPwJ/wvLjFxZUHRxo+VecRNZ/tW2+qfTt2zY5B4rf5QkIGbGa\nzcG9aQ03nAaqLWNJKiLyWnHJQdL2BnqJgGQ+oI0xQWrbYUb9U4oFKuyBdQpDa8K7\nUWTjAnb0gN/jCuSPfQSE20GInozc/HJVBVcXyi1aEhfILwlWkQ2ybN4pWZUL/yVi\n0D2EmZeguz3T51sslEa+bsRNqlwNcpDWQh5nsRy4EqpO9pi/9yrV7jezznEcHXoT\nRsiny67Gtv0isyeZ1xFgtCkZ3WiwkBULYotqaFdkLDwcI/Nb8JxlHqTVx2mTXVJg\n8ttPJ6Kz1KO6mX+cjMuddiQnSliB/6hhPo36x0usBBz81GXnHiPQ+29UnOeaYOuU\n4nilzmnsyc1kN9CbTOfc\n=SpDI\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 6ce31b76505f383c272fca1c50756fec622ef871\nparent bcef6c40cbf405cf7bd5585cc44092b5c2994644\nauthor Nighty <Nightblade@users.noreply.github.com> 1706448595 +1100\ncommitter GitHub <noreply@github.com> 1706448595 +1100\n\nfix typo \"Soultether\" in changelogs (#7322)\n\nSoultether -> Soul Tether"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/ab09da203ae3d3be4c12a0712e3559d8be0b038a",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/ab09da203ae3d3be4c12a0712e3559d8be0b038a",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/ab09da203ae3d3be4c12a0712e3559d8be0b038a/comments",
+        "author": {
+            "login": "Nightblade",
+            "id": 23911,
+            "node_id": "MDQ6VXNlcjIzOTEx",
+            "avatar_url": "https://avatars.githubusercontent.com/u/23911?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Nightblade",
+            "html_url": "https://github.com/Nightblade",
+            "followers_url": "https://api.github.com/users/Nightblade/followers",
+            "following_url": "https://api.github.com/users/Nightblade/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Nightblade/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Nightblade/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Nightblade/subscriptions",
+            "organizations_url": "https://api.github.com/users/Nightblade/orgs",
+            "repos_url": "https://api.github.com/users/Nightblade/repos",
+            "events_url": "https://api.github.com/users/Nightblade/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Nightblade/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "bcef6c40cbf405cf7bd5585cc44092b5c2994644",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/bcef6c40cbf405cf7bd5585cc44092b5c2994644",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/bcef6c40cbf405cf7bd5585cc44092b5c2994644"
+            }
+        ]
+    },
+    {
+        "sha": "bcef6c40cbf405cf7bd5585cc44092b5c2994644",
+        "node_id": "C_kwDODEvm_doAKGJjZWY2YzQwY2JmNDA1Y2Y3YmQ1NTg1Y2M0NDA5MmI1YzI5OTQ2NDQ",
+        "commit": {
+            "author": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-26T18:33:10Z"
+            },
+            "committer": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-26T18:33:10Z"
+            },
+            "message": "Merge branch 'master' into dev",
+            "tree": {
+                "sha": "d27d1161eefa260f1dc529e3a3c3fcc51a3669cf",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/d27d1161eefa260f1dc529e3a3c3fcc51a3669cf"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/bcef6c40cbf405cf7bd5585cc44092b5c2994644",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/bcef6c40cbf405cf7bd5585cc44092b5c2994644",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/bcef6c40cbf405cf7bd5585cc44092b5c2994644",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/bcef6c40cbf405cf7bd5585cc44092b5c2994644/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "045d0ae6bfa1c52c50a1dd697dd77c71c0a9e5d5",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/045d0ae6bfa1c52c50a1dd697dd77c71c0a9e5d5",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/045d0ae6bfa1c52c50a1dd697dd77c71c0a9e5d5"
+            },
+            {
+                "sha": "65c24a83af57737022dbd1521fb3b5d3094ad8c3",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/65c24a83af57737022dbd1521fb3b5d3094ad8c3",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/65c24a83af57737022dbd1521fb3b5d3094ad8c3"
+            }
+        ]
+    },
+    {
+        "sha": "65c24a83af57737022dbd1521fb3b5d3094ad8c3",
+        "node_id": "C_kwDODEvm_doAKDY1YzI0YTgzYWY1NzczNzAyMmRiZDE1MjFmYjNiNWQzMDk0YWQ4YzM",
+        "commit": {
+            "author": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-26T18:32:40Z"
+            },
+            "committer": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-26T18:32:40Z"
+            },
+            "message": "Release 2.39.3\n\n--- Fixed Crashes ---\n* Fix crash when sorting gems on a disabled socket group (Paliak)\n* Fix crash when hovering over Buffs section (Wires77)\n\n--- Fixed Bugs ---\n* Fix Utula's Hunger not working with Soultether, Legacy of Fury and Exarch Helmet implicit (Peechey)",
+            "tree": {
+                "sha": "d27d1161eefa260f1dc529e3a3c3fcc51a3669cf",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/d27d1161eefa260f1dc529e3a3c3fcc51a3669cf"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/65c24a83af57737022dbd1521fb3b5d3094ad8c3",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/65c24a83af57737022dbd1521fb3b5d3094ad8c3",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/65c24a83af57737022dbd1521fb3b5d3094ad8c3",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/65c24a83af57737022dbd1521fb3b5d3094ad8c3/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "a70ee00a2366f1e71d3314481887f2f1e558b3b5",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/a70ee00a2366f1e71d3314481887f2f1e558b3b5",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/a70ee00a2366f1e71d3314481887f2f1e558b3b5"
+            }
+        ]
+    },
+    {
+        "sha": "a70ee00a2366f1e71d3314481887f2f1e558b3b5",
+        "node_id": "C_kwDODEvm_doAKGE3MGVlMDBhMjM2NmYxZTcxZDMzMTQ0ODE4ODdmMmYxZTU1OGIzYjU",
+        "commit": {
+            "author": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-26T18:26:40Z"
+            },
+            "committer": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-26T18:26:40Z"
+            },
+            "message": "Merge branch 'dev'",
+            "tree": {
+                "sha": "5184f5188b0752ab08e4b15e25b36372969f4ba1",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/5184f5188b0752ab08e4b15e25b36372969f4ba1"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/a70ee00a2366f1e71d3314481887f2f1e558b3b5",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/a70ee00a2366f1e71d3314481887f2f1e558b3b5",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/a70ee00a2366f1e71d3314481887f2f1e558b3b5",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/a70ee00a2366f1e71d3314481887f2f1e558b3b5/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "ada6ce1ba4c195cef33b148de3e06c8075ba1a0b",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/ada6ce1ba4c195cef33b148de3e06c8075ba1a0b",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/ada6ce1ba4c195cef33b148de3e06c8075ba1a0b"
+            },
+            {
+                "sha": "045d0ae6bfa1c52c50a1dd697dd77c71c0a9e5d5",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/045d0ae6bfa1c52c50a1dd697dd77c71c0a9e5d5",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/045d0ae6bfa1c52c50a1dd697dd77c71c0a9e5d5"
+            }
+        ]
+    },
+    {
+        "sha": "045d0ae6bfa1c52c50a1dd697dd77c71c0a9e5d5",
+        "node_id": "C_kwDODEvm_doAKDA0NWQwYWU2YmZhMWM1MmM1MGExZGQ2OTdkZDc3YzcxYzBhOWU1ZDU",
+        "commit": {
+            "author": {
+                "name": "github-actions[bot]",
+                "email": "41898282+github-actions[bot]@users.noreply.github.com",
+                "date": "2024-01-26T18:26:04Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-26T18:26:04Z"
+            },
+            "message": "Release 2.39.3 (#7320)\n\n* Prepare release 2.39.3\r\n\r\n* Fix changelogs\r\n\r\n---------\r\n\r\nCo-authored-by: LocalIdentity <LocalIdentity@users.noreply.github.com>\r\nCo-authored-by: LocalIdentity <localidentity2@gmail.com>",
+            "tree": {
+                "sha": "5184f5188b0752ab08e4b15e25b36372969f4ba1",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/5184f5188b0752ab08e4b15e25b36372969f4ba1"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/045d0ae6bfa1c52c50a1dd697dd77c71c0a9e5d5",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJls/k8CRC1aQ7uu5UhlAAAtY8QALAH4V0bWUCPuqq7fA6FD9Lm\nlxvFTctgjH+SlqSm4WCM/3RmmchM9wmK+kciaHfUHF0E+5STfM1jb0tCI8zujgwq\njEghft0rzrDJ8DyBV2TEpOczIza4Ju0roLBlnMdlnDXPDeFNZ/PrdO2RtkSwOFah\ny+lLT6LSfMs+P/+y5wm/Fa618hMx5Qu0Ci3ELEamrwlKdlPRmWnX9s1wPSiAh9wP\n2zAqEsZ4d9zcVBSW/1e9vGX+kFLBhRtrLLMH6PqjxdaX/tG2arZKDEKCZILHMtgc\nq5CqZuu98RWZl0czT8UBj/cBwXTWaECmVXIaHueWZX6c4LD1r2dUv797lIxsyTkY\nMz9Rd7DMgQyhmUb+GarhZDDLFruH11BgAlYfQL9KAyXEl4c42P3xj1zGRz4CPgAa\n85VIXzy9FoOocuckQ2TgMKG/kT3tWkWRfs9UzLNAAUmnA9PCJeQDH/LtP8jQB8Ks\nzvU0OheQIiBC4VDUi+YQyluf5pGamGlA6XSVvQUAdvWcFPJFC9zN5NvpeZfYfFR7\nd6SwITbEYOVizACf/aQAFOQ8razT4hiyoFzllBGkqkoamVf0EY7puOVTkIBw4BSi\nE/H5ietL2EpHKcyAErbIUESiFojvPno1Xt9lAWWNeFi8bwceVxDaV56Yzly71WKH\nolJhJW050ZGh0/48I+SU\n=9a+1\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 5184f5188b0752ab08e4b15e25b36372969f4ba1\nparent 755f189d1af891a8f9398179b872d08bc565fb1d\nauthor github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> 1706293564 +1100\ncommitter GitHub <noreply@github.com> 1706293564 +1100\n\nRelease 2.39.3 (#7320)\n\n* Prepare release 2.39.3\r\n\r\n* Fix changelogs\r\n\r\n---------\r\n\r\nCo-authored-by: LocalIdentity <LocalIdentity@users.noreply.github.com>\r\nCo-authored-by: LocalIdentity <localidentity2@gmail.com>"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/045d0ae6bfa1c52c50a1dd697dd77c71c0a9e5d5",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/045d0ae6bfa1c52c50a1dd697dd77c71c0a9e5d5",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/045d0ae6bfa1c52c50a1dd697dd77c71c0a9e5d5/comments",
+        "author": {
+            "login": "github-actions[bot]",
+            "id": 41898282,
+            "node_id": "MDM6Qm90NDE4OTgyODI=",
+            "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+            "html_url": "https://github.com/apps/github-actions",
+            "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+            "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+            "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+            "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+            "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+            "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+            "type": "Bot",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "755f189d1af891a8f9398179b872d08bc565fb1d",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/755f189d1af891a8f9398179b872d08bc565fb1d",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/755f189d1af891a8f9398179b872d08bc565fb1d"
+            }
+        ]
+    },
+    {
+        "sha": "755f189d1af891a8f9398179b872d08bc565fb1d",
+        "node_id": "C_kwDODEvm_doAKDc1NWYxODlkMWFmODkxYThmOTM5ODE3OWI4NzJkMDhiYzU2NWZiMWQ",
+        "commit": {
+            "author": {
+                "name": "Peechey",
+                "email": "92683202+Peechey@users.noreply.github.com",
+                "date": "2024-01-26T18:11:25Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-26T18:11:25Z"
+            },
+            "message": "Fix various item mod interactions with Utula's Hunger (#7313)\n\n* add specialExclusion for Legacy of Fury's life mod to avoid issue with Utula's Hunger\r\n\r\n* flame exarch implicit and soul tether",
+            "tree": {
+                "sha": "a6ef196f201bd873d070bca08484d5ce0d65e151",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/a6ef196f201bd873d070bca08484d5ce0d65e151"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/755f189d1af891a8f9398179b872d08bc565fb1d",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJls/XNCRC1aQ7uu5UhlAAAxnIQAGhxmFJ1VBVa7zsxIN5dmk5G\ncpHNn2AaUHOu1/UuvSgonkBBon9zpuWhsn4M/o+xeNuQ0rYueQi5tnEO69GupdQj\n1ZUYWgYM0UmBpOkOfCRgJkgIEdkMpvd6bxG1QerPIulMNUu69iB4SeqlodQFgpFS\nC6OO9quSVyMUqm01AGUc+2hr4vkh0Yn4ntnhvMcY5nU/KFnElSIh7Qrg/mEJIXAI\nWt0/eCMQ3F1m0nExYg6wyL5jYuO99qSibXe27T9p9MPzuxAD6RtpoybaOsABgpkW\nMWDCGQx7WqHg0S2n4+95ZSfkFNHiUHMsp5ed6Q+13SfI95BhyimrbQcCBm6Pskkl\nfjyEURXxWkWGVjmE6foFSaUuaaU5GO3urAzv0XXcB6y2nh6BNtwjC8Tc1T7IOAcH\nd+14lB+XBa9eZJyqMqZ1IZtv+5FlkpByDnyAMpRsKHwGwXFjCs25vBHjL4WEp5Lc\n4KWBaWLyb6IIQjqDDMXhky0Qny5qFdCzmPKZNIRLiqmJAX4GnC9LKc0GB0TGYLJX\nggsnTF4+OhzuDqZEpzMEWVWklOXs88qD4Tb2QpOBeg3pRG4MT0Bgl1vyraGzyC/z\na16KILDQjtrd6C4O2scBH4aIDtmyxgu9Hy9gWLoSbu9iifmDltNBy3fvTZ+ZZ+ma\n0TA/NAyU30wR8TuWMjmk\n=/9ll\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree a6ef196f201bd873d070bca08484d5ce0d65e151\nparent 1141424bc78244c00e3d52eb9fbc54ee20f76ed4\nauthor Peechey <92683202+Peechey@users.noreply.github.com> 1706292685 -0600\ncommitter GitHub <noreply@github.com> 1706292685 +1100\n\nFix various item mod interactions with Utula's Hunger (#7313)\n\n* add specialExclusion for Legacy of Fury's life mod to avoid issue with Utula's Hunger\r\n\r\n* flame exarch implicit and soul tether"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/755f189d1af891a8f9398179b872d08bc565fb1d",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/755f189d1af891a8f9398179b872d08bc565fb1d",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/755f189d1af891a8f9398179b872d08bc565fb1d/comments",
+        "author": {
+            "login": "Peechey",
+            "id": 92683202,
+            "node_id": "U_kgDOBYY7wg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/92683202?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Peechey",
+            "html_url": "https://github.com/Peechey",
+            "followers_url": "https://api.github.com/users/Peechey/followers",
+            "following_url": "https://api.github.com/users/Peechey/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Peechey/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Peechey/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Peechey/subscriptions",
+            "organizations_url": "https://api.github.com/users/Peechey/orgs",
+            "repos_url": "https://api.github.com/users/Peechey/repos",
+            "events_url": "https://api.github.com/users/Peechey/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Peechey/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "1141424bc78244c00e3d52eb9fbc54ee20f76ed4",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/1141424bc78244c00e3d52eb9fbc54ee20f76ed4",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/1141424bc78244c00e3d52eb9fbc54ee20f76ed4"
+            }
+        ]
+    },
+    {
+        "sha": "1141424bc78244c00e3d52eb9fbc54ee20f76ed4",
+        "node_id": "C_kwDODEvm_doAKDExNDE0MjRiYzc4MjQ0YzAwZTNkNTJlYjlmYmM1NGVlMjBmNzZlZDQ",
+        "commit": {
+            "author": {
+                "name": "Wires77",
+                "email": "Wires77@users.noreply.github.com",
+                "date": "2024-01-26T18:09:51Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-26T18:09:51Z"
+            },
+            "message": "Fix bug comparing non-number types in the Calcs tab (#7315)\n\n* Fixes #3714: Only compare number types\r\n\r\n* Add the same check to another spot",
+            "tree": {
+                "sha": "e7f6d2f3fdf1546c46293aabc5b1774801b8d00e",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/e7f6d2f3fdf1546c46293aabc5b1774801b8d00e"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/1141424bc78244c00e3d52eb9fbc54ee20f76ed4",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJls/VvCRC1aQ7uu5UhlAAAsoYQAEOb83rdlLVc0izyKEGZT1s7\nUvlpReVy3ztdTQUXpUs3+q3pgcgLph62aPEUuyN15RnBzxg5cMSe76XPcHp1JYPc\nmzxwmvzmQwcwHrZIPTEF/swvsLykgaP7gFhuvkQrgR1sZyoNolRuZo3T4yhlEWJH\n0eSVDXVZ826GwBSciawc0QeBNqIzaVdpAL1wPN7kypTrJ1QYedN0xUXUBmPLzuFl\nXM8v7eKyFdGfmH1xnrXcjXxGXNJ0M8kYdNGuoRMzz1nj5wC/RSR68cdfaHw/4lrC\nCPjY1reRJ0pjqkcN0hEXeLSs2Xg9r8snM2C2AwL0izXJgoDfnQ8cjb2XJJNMUFzg\neWGg/FmbV2om2Dz+6QxzXfsm16LuPiCFexX7c8Ct1mRx+x2mt85BRFT/BuYR/R6j\nVXnwziuWp3780BGkEGo0suc9v90z5x8bvfjIlqBLXDndZGFx9jTPMHOFdMapdXIK\nzPno7lRV5CN8L6tqkUr8JLgaioJUN/MwzyJzTddp/Pus83ZH0wzV52Ee9Ps/Tpb2\nqOAmnM+FFQyxjSptBTY0Pt1rKgz6H8DcczPjL1zzHOs2yf2qic71/wfoWuunaqVF\nkRJK0SKeA8bQ313fva+8IQn51mskN695Bp46zWtQhFvZhF5Zawt16bbT+G/5rpra\norGoGnDaoWAxBWvAUc1A\n=xVip\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree e7f6d2f3fdf1546c46293aabc5b1774801b8d00e\nparent 2a2b454f99a8bdd82f344a1d43ded31d623f67d8\nauthor Wires77 <Wires77@users.noreply.github.com> 1706292591 -0600\ncommitter GitHub <noreply@github.com> 1706292591 +1100\n\nFix bug comparing non-number types in the Calcs tab (#7315)\n\n* Fixes #3714: Only compare number types\r\n\r\n* Add the same check to another spot"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/1141424bc78244c00e3d52eb9fbc54ee20f76ed4",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/1141424bc78244c00e3d52eb9fbc54ee20f76ed4",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/1141424bc78244c00e3d52eb9fbc54ee20f76ed4/comments",
+        "author": {
+            "login": "Wires77",
+            "id": 1209372,
+            "node_id": "MDQ6VXNlcjEyMDkzNzI=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1209372?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Wires77",
+            "html_url": "https://github.com/Wires77",
+            "followers_url": "https://api.github.com/users/Wires77/followers",
+            "following_url": "https://api.github.com/users/Wires77/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Wires77/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Wires77/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Wires77/subscriptions",
+            "organizations_url": "https://api.github.com/users/Wires77/orgs",
+            "repos_url": "https://api.github.com/users/Wires77/repos",
+            "events_url": "https://api.github.com/users/Wires77/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Wires77/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "2a2b454f99a8bdd82f344a1d43ded31d623f67d8",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/2a2b454f99a8bdd82f344a1d43ded31d623f67d8",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/2a2b454f99a8bdd82f344a1d43ded31d623f67d8"
+            }
+        ]
+    },
+    {
+        "sha": "2a2b454f99a8bdd82f344a1d43ded31d623f67d8",
+        "node_id": "C_kwDODEvm_doAKDJhMmI0NTRmOTlhOGJkZDgyZjM0NGExZDQzZGVkMzFkNjIzZjY3ZDg",
+        "commit": {
+            "author": {
+                "name": "Paliak",
+                "email": "91493239+Paliak@users.noreply.github.com",
+                "date": "2024-01-26T18:09:30Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-26T18:09:30Z"
+            },
+            "message": "Fix crash caused by incorrect calc mode used for manaforged source calc (#7317)\n\n* Revert \"FIX:rare crash when forcing active a trigger group\"\r\n\r\nThis reverts commit 00349d3da44d85424605ef3a72252d47c8e4bf4d.\r\n\r\n* FIX: manaforge nil deref due to wrong calc mode",
+            "tree": {
+                "sha": "a8cbf6dc5e8b25cb9f4d267f84f9990d44baac77",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/a8cbf6dc5e8b25cb9f4d267f84f9990d44baac77"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/2a2b454f99a8bdd82f344a1d43ded31d623f67d8",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJls/VaCRC1aQ7uu5UhlAAAO2cQAG2yYetpD9aN05J81Fk+DHXC\ncDKilqDpDMdZ1oOXxCfBeIiKzOQC+rUpJECL9bYg7ttF9BLbljOox/uSYFDfvoAA\nY0mDPNvkc9zNkN/xmXCZMtyyOBBVMvU4T6NRZuP8a3IZ0ljBGo1Auh41WseMDbAK\n70sycI+sn3vipfyr/q7E3/OCS3ECss9TkdYomxt3dRJnNK1qHLZDgl6Wc/tSTghK\nYfnrZHrN/xuWeu4bGB10lx79ts8zJBvCg33A4KwUvYm6MheBZklGrzQLUCEAKQAc\nqOl8e+Uh17q8TJWisIAwCvVjXSq9w5ooyOFpiqTv4mZnltMMW0Jh+q/WslAAZwUO\n6TToHUOnZRVgHdgt9P8V7A8bta/UFxtGmUbxBszvYRaeHtBed3rWinqMT1g/AOi9\n/boII4lur29+s4+7LuxZOZbPm9ESefLhodm8R2C5+NWkmPtHgoBIdljVoAzD5ucW\nt0OqSOaFB5dnxyHSAKfyVkgiqG64IhhD4/HHVDYcGYJWs8olpm+X3Z6mzLSlu+4M\ntofI1SEkcHCs+vlPYJi05P4Djm840vEFzGObDvAJ2DKj/JiRWg6pD09JNeqDieeK\nrIBp6OAeITbtTz+crlBoxZ4LknDdFrGSBtnD353iUXKV0GGGx/HsEZCM6195/nPM\nyR+PRhxrPP4Ak6K2cMvX\n=SBet\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree a8cbf6dc5e8b25cb9f4d267f84f9990d44baac77\nparent 37b004035af610f1f95f06dd9119ca484a3dc941\nauthor Paliak <91493239+Paliak@users.noreply.github.com> 1706292570 +0100\ncommitter GitHub <noreply@github.com> 1706292570 +1100\n\nFix crash caused by incorrect calc mode used for manaforged source calc (#7317)\n\n* Revert \"FIX:rare crash when forcing active a trigger group\"\r\n\r\nThis reverts commit 00349d3da44d85424605ef3a72252d47c8e4bf4d.\r\n\r\n* FIX: manaforge nil deref due to wrong calc mode"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/2a2b454f99a8bdd82f344a1d43ded31d623f67d8",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/2a2b454f99a8bdd82f344a1d43ded31d623f67d8",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/2a2b454f99a8bdd82f344a1d43ded31d623f67d8/comments",
+        "author": {
+            "login": "Paliak",
+            "id": 91493239,
+            "node_id": "MDQ6VXNlcjkxNDkzMjM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91493239?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paliak",
+            "html_url": "https://github.com/Paliak",
+            "followers_url": "https://api.github.com/users/Paliak/followers",
+            "following_url": "https://api.github.com/users/Paliak/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Paliak/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Paliak/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Paliak/subscriptions",
+            "organizations_url": "https://api.github.com/users/Paliak/orgs",
+            "repos_url": "https://api.github.com/users/Paliak/repos",
+            "events_url": "https://api.github.com/users/Paliak/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Paliak/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "37b004035af610f1f95f06dd9119ca484a3dc941",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/37b004035af610f1f95f06dd9119ca484a3dc941",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/37b004035af610f1f95f06dd9119ca484a3dc941"
+            }
+        ]
+    },
+    {
+        "sha": "37b004035af610f1f95f06dd9119ca484a3dc941",
+        "node_id": "C_kwDODEvm_doAKDM3YjAwNDAzNWFmNjEwZjFmOTVmMDZkZDkxMTljYTQ4NGEzZGM5NDE",
+        "commit": {
+            "author": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-25T16:26:22Z"
+            },
+            "committer": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-25T16:26:22Z"
+            },
+            "message": "Merge branch 'master' into dev",
+            "tree": {
+                "sha": "aafd6932cc1ca4cf2f1a9ea3797992c23097ea31",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/aafd6932cc1ca4cf2f1a9ea3797992c23097ea31"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/37b004035af610f1f95f06dd9119ca484a3dc941",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/37b004035af610f1f95f06dd9119ca484a3dc941",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/37b004035af610f1f95f06dd9119ca484a3dc941",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/37b004035af610f1f95f06dd9119ca484a3dc941/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "038c8d3bf8d37f71ae8d84083f3e1b47da0cf536",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/038c8d3bf8d37f71ae8d84083f3e1b47da0cf536",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/038c8d3bf8d37f71ae8d84083f3e1b47da0cf536"
+            },
+            {
+                "sha": "ada6ce1ba4c195cef33b148de3e06c8075ba1a0b",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/ada6ce1ba4c195cef33b148de3e06c8075ba1a0b",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/ada6ce1ba4c195cef33b148de3e06c8075ba1a0b"
+            }
+        ]
+    },
+    {
+        "sha": "ada6ce1ba4c195cef33b148de3e06c8075ba1a0b",
+        "node_id": "C_kwDODEvm_doAKGFkYTZjZTFiYTRjMTk1Y2VmMzNiMTQ4ZGUzZTA2YzgwNzViYTFhMGI",
+        "commit": {
+            "author": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-25T16:25:48Z"
+            },
+            "committer": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-25T16:25:48Z"
+            },
+            "message": "Release 2.39.2\n\n--- Fixed Crashes ---\n* Fix crash when using opening wiki for skills granted by items (Peechey)\n* Fix crash when mousing over Strength breakdown when using Flame's Advance (Paliak)\n* Fix crash when hovering over some breakdowns (LocalIdentity)",
+            "tree": {
+                "sha": "aafd6932cc1ca4cf2f1a9ea3797992c23097ea31",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/aafd6932cc1ca4cf2f1a9ea3797992c23097ea31"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/ada6ce1ba4c195cef33b148de3e06c8075ba1a0b",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/ada6ce1ba4c195cef33b148de3e06c8075ba1a0b",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/ada6ce1ba4c195cef33b148de3e06c8075ba1a0b",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/ada6ce1ba4c195cef33b148de3e06c8075ba1a0b/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "7071661c79ad63b6979ec6dc0718161fdf5074b8",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/7071661c79ad63b6979ec6dc0718161fdf5074b8",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/7071661c79ad63b6979ec6dc0718161fdf5074b8"
+            }
+        ]
+    },
+    {
+        "sha": "7071661c79ad63b6979ec6dc0718161fdf5074b8",
+        "node_id": "C_kwDODEvm_doAKDcwNzE2NjFjNzlhZDYzYjY5NzllYzZkYzA3MTgxNjFmZGY1MDc0Yjg",
+        "commit": {
+            "author": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-25T16:23:19Z"
+            },
+            "committer": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-25T16:23:19Z"
+            },
+            "message": "Merge branch 'dev'",
+            "tree": {
+                "sha": "82550a23affc1c402ffd31ecdfa089186cd9823b",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/82550a23affc1c402ffd31ecdfa089186cd9823b"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/7071661c79ad63b6979ec6dc0718161fdf5074b8",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/7071661c79ad63b6979ec6dc0718161fdf5074b8",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/7071661c79ad63b6979ec6dc0718161fdf5074b8",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/7071661c79ad63b6979ec6dc0718161fdf5074b8/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "9715de5521ab36de00d0f3acdd41dd426e50be7b",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/9715de5521ab36de00d0f3acdd41dd426e50be7b",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/9715de5521ab36de00d0f3acdd41dd426e50be7b"
+            },
+            {
+                "sha": "038c8d3bf8d37f71ae8d84083f3e1b47da0cf536",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/038c8d3bf8d37f71ae8d84083f3e1b47da0cf536",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/038c8d3bf8d37f71ae8d84083f3e1b47da0cf536"
+            }
+        ]
+    },
+    {
+        "sha": "038c8d3bf8d37f71ae8d84083f3e1b47da0cf536",
+        "node_id": "C_kwDODEvm_doAKDAzOGM4ZDNiZjhkMzdmNzFhZThkODQwODNmM2UxYjQ3ZGEwY2Y1MzY",
+        "commit": {
+            "author": {
+                "name": "github-actions[bot]",
+                "email": "41898282+github-actions[bot]@users.noreply.github.com",
+                "date": "2024-01-25T16:22:39Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-25T16:22:39Z"
+            },
+            "message": "Release 2.39.2 (#7312)\n\n* Prepare release 2.39.2\r\n\r\n* Fix changelogs\r\n\r\n---------\r\n\r\nCo-authored-by: LocalIdentity <LocalIdentity@users.noreply.github.com>\r\nCo-authored-by: LocalIdentity <localidentity2@gmail.com>",
+            "tree": {
+                "sha": "82550a23affc1c402ffd31ecdfa089186cd9823b",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/82550a23affc1c402ffd31ecdfa089186cd9823b"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/038c8d3bf8d37f71ae8d84083f3e1b47da0cf536",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJlsorPCRC1aQ7uu5UhlAAAaEQQAJBVOY0Zam2beYFTPnXfQ9ha\ncfQzNFV3Xo9q+eTRJpuA6JIsFjNe/4FXEQ3hJvic5bKE6JsORdQHhZ6D+o0KcrYT\nIXZnxEFAiu7f2AmneD5Uhjd85aq7QKwbuuFJucuiXmaOAkAClkmJPwlX6yoc+Rsx\nFAKUEQiLzTWG9M/EI91Wy5SjP2sVwp/VQvN25pQxAEwkIye9lAmrrnDMKH21yT81\ni2R5t0G07gap/oEISG1+3pwVR5AJVBZ41c+RCRQ8m5SS52qNzHCMUCP4Eo+CSVzO\nzIHhl4zL4xkLUdgINOVdUANf6e9Rak42OlBqEmHJ7RmnG76jHPHvlLUoYgcNvsk8\nFJnJCfqPeOG/FvEyKzpl4G440UoL8TJ8SqYJbFTekggFvkW4hUDeQ2VYjenlOwu6\nLC9ug1sxGJH55bb2LVcbgE2R5gwycA+ev1SekjGm7ZjWrHghbZz1+v5VCcExqd+l\n+uQspKoKbohZaDUjSuOdu3WrTi5YD7dMLn+JwbZ3MBTnIaBbty93V7xuM6l/cZR9\n84jd9XM3df27NSTxeY0uWcavbinbrCzFX1nOQ6wYoiFRhOQAsG991LK3UP1YYV49\nzUaInFUeOdkHoSGLfUdte0rKIqPg8lf6UDA4Y/FK6WZxjxi4FFqBMcD4zv1tFcmO\nGXbsFyKK6PUf7GKGHG98\n=jT/8\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 82550a23affc1c402ffd31ecdfa089186cd9823b\nparent f365643647716770cb94a9a155091256755a5fa9\nauthor github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> 1706199759 +1100\ncommitter GitHub <noreply@github.com> 1706199759 +1100\n\nRelease 2.39.2 (#7312)\n\n* Prepare release 2.39.2\r\n\r\n* Fix changelogs\r\n\r\n---------\r\n\r\nCo-authored-by: LocalIdentity <LocalIdentity@users.noreply.github.com>\r\nCo-authored-by: LocalIdentity <localidentity2@gmail.com>"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/038c8d3bf8d37f71ae8d84083f3e1b47da0cf536",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/038c8d3bf8d37f71ae8d84083f3e1b47da0cf536",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/038c8d3bf8d37f71ae8d84083f3e1b47da0cf536/comments",
+        "author": {
+            "login": "github-actions[bot]",
+            "id": 41898282,
+            "node_id": "MDM6Qm90NDE4OTgyODI=",
+            "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+            "html_url": "https://github.com/apps/github-actions",
+            "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+            "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+            "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+            "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+            "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+            "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+            "type": "Bot",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "f365643647716770cb94a9a155091256755a5fa9",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/f365643647716770cb94a9a155091256755a5fa9",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/f365643647716770cb94a9a155091256755a5fa9"
+            }
+        ]
+    },
+    {
+        "sha": "f365643647716770cb94a9a155091256755a5fa9",
+        "node_id": "C_kwDODEvm_doAKGYzNjU2NDM2NDc3MTY3NzBjYjk0YTlhMTU1MDkxMjU2NzU1YTVmYTk",
+        "commit": {
+            "author": {
+                "name": "LocalIdentity",
+                "email": "31035929+LocalIdentity@users.noreply.github.com",
+                "date": "2024-01-25T16:18:24Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-25T16:18:24Z"
+            },
+            "message": "Fix crash when hovering over some breakdowns (#7311)\n\nSome values were saved as strings which broke the compare function\r\n\r\nCo-authored-by: LocalIdentity <localidentity2@gmail.com>",
+            "tree": {
+                "sha": "7558f382da0f2d9e1f9b407f1e8415fcc188a23a",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/7558f382da0f2d9e1f9b407f1e8415fcc188a23a"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/f365643647716770cb94a9a155091256755a5fa9",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJlsonQCRC1aQ7uu5UhlAAA+hkQAHRhGriA6w/bVAeuOIwo3vjo\n2aXCa4qVda+NQKzokJ68+4F/9fjI4Lj116ItGrqVRDvIh2XgrAt43KpngBdCL4Xu\nuVIzMUOfnkDKVzhFBtCO8by9QTJJR3s9iYphBwv0C3ayeZKXeglRWb5vuie//sTM\ncoQ0Q7J8gFkvdBCWH7oeJXd/hl80PA0XndvodnOufnTsV4Gaf9Ae2nIGw8fB6x5c\nFxHp2hLN7yFnwYodA8yzJfB3SyWxDGdbn8/rhK3Ehim/1HeOVl9k2bmYVwn/y1PS\nZkr2/NHkoVhRqiR8VBA/BNg/aZ4f7HLPFhIjxl+k5Ryi0684hitABu9sBcdlh0Qf\nRoabNe9zaPZYepKufgolzbOm1UuqF69y/KV0VWXjhMLvDy7Ov0jdfELb/uCcyGJa\nboxwgyn79dZ5umF+uu71EqQwzBjcqHxIWO5AwWw/SCVG/9qUsiV8jgIPIqLb//Qf\n8Occn0/x6UJWkGvhpXuF+JaYE4yM0KWZs5jIxCS4u8FlRTU2wk922xnJIaAg6BUO\nHGyFqy9iDpxcbMcCCQx12a16YdB22YcUUpSRyeAYB/G5hgh2QoFjJHAbQs89wdoB\nqyKigIXhjcM7JVR/bSaC8duCLcYAuc39bl/dzgi5ZruRH43TQXMs9Zy9Uogcy55Z\nJGNmNb3bIbjekt63fsZo\n=L4I2\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 7558f382da0f2d9e1f9b407f1e8415fcc188a23a\nparent c4a19f46e4c32a92a34d7662d6820dfcbe01c4d7\nauthor LocalIdentity <31035929+LocalIdentity@users.noreply.github.com> 1706199504 +1100\ncommitter GitHub <noreply@github.com> 1706199504 +1100\n\nFix crash when hovering over some breakdowns (#7311)\n\nSome values were saved as strings which broke the compare function\r\n\r\nCo-authored-by: LocalIdentity <localidentity2@gmail.com>"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/f365643647716770cb94a9a155091256755a5fa9",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/f365643647716770cb94a9a155091256755a5fa9",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/f365643647716770cb94a9a155091256755a5fa9/comments",
+        "author": {
+            "login": "LocalIdentity",
+            "id": 31035929,
+            "node_id": "MDQ6VXNlcjMxMDM1OTI5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31035929?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/LocalIdentity",
+            "html_url": "https://github.com/LocalIdentity",
+            "followers_url": "https://api.github.com/users/LocalIdentity/followers",
+            "following_url": "https://api.github.com/users/LocalIdentity/following{/other_user}",
+            "gists_url": "https://api.github.com/users/LocalIdentity/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/LocalIdentity/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/LocalIdentity/subscriptions",
+            "organizations_url": "https://api.github.com/users/LocalIdentity/orgs",
+            "repos_url": "https://api.github.com/users/LocalIdentity/repos",
+            "events_url": "https://api.github.com/users/LocalIdentity/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/LocalIdentity/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "c4a19f46e4c32a92a34d7662d6820dfcbe01c4d7",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/c4a19f46e4c32a92a34d7662d6820dfcbe01c4d7",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/c4a19f46e4c32a92a34d7662d6820dfcbe01c4d7"
+            }
+        ]
+    },
+    {
+        "sha": "c4a19f46e4c32a92a34d7662d6820dfcbe01c4d7",
+        "node_id": "C_kwDODEvm_doAKGM0YTE5ZjQ2ZTRjMzJhOTJhMzRkNzY2MmQ2ODIwZGZjYmUwMWM0ZDc",
+        "commit": {
+            "author": {
+                "name": "Peechey",
+                "email": "92683202+Peechey@users.noreply.github.com",
+                "date": "2024-01-25T07:20:00Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-25T07:20:00Z"
+            },
+            "message": "fix loading wiki for granted skills from items and passives (#7309)",
+            "tree": {
+                "sha": "ba937a54bcbbd27c3d043e299d711d3809bb4740",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/ba937a54bcbbd27c3d043e299d711d3809bb4740"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/c4a19f46e4c32a92a34d7662d6820dfcbe01c4d7",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJlsgugCRC1aQ7uu5UhlAAAFroQACv7QYrL+/lsHbDw/tQWLmqs\nyaqRWexNIUi2Ab87gQxP5g9dJiCSCeM4NbasqfGDIWLn4YvkLFH7AREqdEOd7abG\nbKTR5XLwWS0Ps5Bj4LQY/ji5aDblbeDsqrbxb0k3qgbJYP5TbgT6mA3Ovptv76ac\n7lUlOZu3e03/6YkhBYaGzB4moMcMgGGcUMLU5w7Nk2unb7d340A52w0VWejgzsAP\napu6mm1eg9d6irYy5En5LGYt849Mv450giYLFBBgnXrHrK/LQ/DlFB4aYt2WddpV\nZxwx64OiLtcRcCsSAgiFDp2ik4R5xZSimW+GueXgFITP6a1pLkvtnl4U/9xgjKpC\nM3JSNPlzE08LelN9KbYFjajlV4HwkttGzb8dDZlV/p4PbGizzSD7wPgoAYTc2H7U\nnZRpKnMIFBpmHJ6guUB20b+a7IZEVh3fM7+2cUe+v9IM4DjQt6a3+o4M3cgaR6P2\noFoR4AdcC6YbVMHrPcoNiBJWSvGxy//vlQM1p6RyKuZbgE4sIWxsIMrVjMrJjUcd\nKU69H+TBBQ5xysqoR/ArAwYJ2K5vR+IUNcWlJv8HDiMskgWhYHevGXmDfEZ/Q/Ku\nlUMWYTlOZeuPZNJ4sGEYkqBqZC952sw3gHC2Sut4GVOhk7En3itCHFEFm7N8nlIn\nRVQ6EXKKgbj6nMbFbpQt\n=X8LZ\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree ba937a54bcbbd27c3d043e299d711d3809bb4740\nparent 22d60bb00a57a0ff3cad972401b5a75f879f2c76\nauthor Peechey <92683202+Peechey@users.noreply.github.com> 1706167200 -0600\ncommitter GitHub <noreply@github.com> 1706167200 +1100\n\nfix loading wiki for granted skills from items and passives (#7309)\n\n"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/c4a19f46e4c32a92a34d7662d6820dfcbe01c4d7",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/c4a19f46e4c32a92a34d7662d6820dfcbe01c4d7",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/c4a19f46e4c32a92a34d7662d6820dfcbe01c4d7/comments",
+        "author": {
+            "login": "Peechey",
+            "id": 92683202,
+            "node_id": "U_kgDOBYY7wg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/92683202?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Peechey",
+            "html_url": "https://github.com/Peechey",
+            "followers_url": "https://api.github.com/users/Peechey/followers",
+            "following_url": "https://api.github.com/users/Peechey/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Peechey/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Peechey/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Peechey/subscriptions",
+            "organizations_url": "https://api.github.com/users/Peechey/orgs",
+            "repos_url": "https://api.github.com/users/Peechey/repos",
+            "events_url": "https://api.github.com/users/Peechey/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Peechey/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "22d60bb00a57a0ff3cad972401b5a75f879f2c76",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/22d60bb00a57a0ff3cad972401b5a75f879f2c76",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/22d60bb00a57a0ff3cad972401b5a75f879f2c76"
+            }
+        ]
+    },
+    {
+        "sha": "22d60bb00a57a0ff3cad972401b5a75f879f2c76",
+        "node_id": "C_kwDODEvm_doAKDIyZDYwYmIwMGE1N2EwZmYzY2FkOTcyNDAxYjVhNzVmODc5ZjJjNzY",
+        "commit": {
+            "author": {
+                "name": "Paliak",
+                "email": "91493239+Paliak@users.noreply.github.com",
+                "date": "2024-01-24T22:21:51Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-24T22:21:51Z"
+            },
+            "message": "FIX: Crash when mousing over strength breakdown when using Flame's (#7308)\n\nAdvance.",
+            "tree": {
+                "sha": "b198bd8a90385196cb5d55d274ba2743d7453ab1",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/b198bd8a90385196cb5d55d274ba2743d7453ab1"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/22d60bb00a57a0ff3cad972401b5a75f879f2c76",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJlsY1/CRC1aQ7uu5UhlAAA6sIQADipAbc002ofgON1C0hkIMNm\nX/BkZ9xAUuuzbZHmeMNLA/sdIqyIKC4BjqONXpsnNtA9H4LP15gPv13nVJwGyQhL\nyAIPkMkN18O/MfQVQKlB9erifi5nFvR9rwhePIkrxccspo0ECss9q6P3iNtvh83Y\nXpWTx98pVUkfyaZ3N7GcI+SYoJCk+IcFO3Rx7kii+JkkXPXRXWLqdJF5FGCPjQ9x\nIf+5WRx6tgDA3PEHbGSizDpy4zrK6ROwzTyuieRL8eQ3WbTu2uZxffIYMMuUxTKG\nopg6jnGPb9bvU28AdRt3bTm0/iOvuYDdLxQsQoZnmD7GuazhkiXARqg07N6oaWQN\ntpXeOemtc4E4IXNBB2JMddY7rWBUOwfUQu9PwhLdk413pyaK0Ibi9QEChXf2ZB3C\nigu9aKPpqGM2b4baRm2Ef0XXOyJyKHqS0anPiMWdWdj9pndBPnF2Ukn0TyZsBqHV\nekio9oiUlv6dU63pBIa9L5LNYUSsvv8Snp/CgbqyKc2edhYYGbJKZ2/phzbjKvP+\nGHKKgKKt7/M63jrL6ZHEPIiqBvpF1PUGAXVEdZ+DlT8N3NomNzRG8pL8zFV8TJR/\n/Py1UIyzUaIKD2pZ76ZFOBXZSrnxqX53vcVfu4vti8a0/gRHF4E0kqBjaNiI7d3d\nc7gsAQRHaAXVVq2K7eyP\n=Qi1i\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree b198bd8a90385196cb5d55d274ba2743d7453ab1\nparent 04387aee1b9ec3f8501248cfdf0fa4f854b4d59e\nauthor Paliak <91493239+Paliak@users.noreply.github.com> 1706134911 +0100\ncommitter GitHub <noreply@github.com> 1706134911 -0600\n\nFIX: Crash when mousing over strength breakdown when using Flame's (#7308)\n\nAdvance."
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/22d60bb00a57a0ff3cad972401b5a75f879f2c76",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/22d60bb00a57a0ff3cad972401b5a75f879f2c76",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/22d60bb00a57a0ff3cad972401b5a75f879f2c76/comments",
+        "author": {
+            "login": "Paliak",
+            "id": 91493239,
+            "node_id": "MDQ6VXNlcjkxNDkzMjM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91493239?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paliak",
+            "html_url": "https://github.com/Paliak",
+            "followers_url": "https://api.github.com/users/Paliak/followers",
+            "following_url": "https://api.github.com/users/Paliak/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Paliak/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Paliak/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Paliak/subscriptions",
+            "organizations_url": "https://api.github.com/users/Paliak/orgs",
+            "repos_url": "https://api.github.com/users/Paliak/repos",
+            "events_url": "https://api.github.com/users/Paliak/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Paliak/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "04387aee1b9ec3f8501248cfdf0fa4f854b4d59e",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/04387aee1b9ec3f8501248cfdf0fa4f854b4d59e",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/04387aee1b9ec3f8501248cfdf0fa4f854b4d59e"
+            }
+        ]
+    },
+    {
+        "sha": "04387aee1b9ec3f8501248cfdf0fa4f854b4d59e",
+        "node_id": "C_kwDODEvm_doAKDA0Mzg3YWVlMWI5ZWMzZjg1MDEyNDhjZmRmMGZhNGY4NTRiNGQ1OWU",
+        "commit": {
+            "author": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-24T19:18:47Z"
+            },
+            "committer": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-24T19:18:47Z"
+            },
+            "message": "Merge branch 'master' into dev",
+            "tree": {
+                "sha": "1305fd1492a12011aa855f570d166d2fa6b34034",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/1305fd1492a12011aa855f570d166d2fa6b34034"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/04387aee1b9ec3f8501248cfdf0fa4f854b4d59e",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/04387aee1b9ec3f8501248cfdf0fa4f854b4d59e",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/04387aee1b9ec3f8501248cfdf0fa4f854b4d59e",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/04387aee1b9ec3f8501248cfdf0fa4f854b4d59e/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "b3ad4031f9d383e58034cdbf23723a7e38e2c1a8",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/b3ad4031f9d383e58034cdbf23723a7e38e2c1a8",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/b3ad4031f9d383e58034cdbf23723a7e38e2c1a8"
+            },
+            {
+                "sha": "9715de5521ab36de00d0f3acdd41dd426e50be7b",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/9715de5521ab36de00d0f3acdd41dd426e50be7b",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/9715de5521ab36de00d0f3acdd41dd426e50be7b"
+            }
+        ]
+    },
+    {
+        "sha": "9715de5521ab36de00d0f3acdd41dd426e50be7b",
+        "node_id": "C_kwDODEvm_doAKDk3MTVkZTU1MjFhYjM2ZGUwMGQwZjNhY2RkNDFkZDQyNmU1MGJlN2I",
+        "commit": {
+            "author": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-24T19:06:53Z"
+            },
+            "committer": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-24T19:06:53Z"
+            },
+            "message": "Release 2.39.1\n\n--- Fixed Crashes ---\n* Fix crash when opening old builds by reverting Cluster Jewel import fix\n* Fix crash when hovering attribute requirements (Wires77)\n\n--- User Interface ---\n* Fix breakdown sorting for unrelated stats (Wires77)\n* Fix charge duration not displaying in breakdown (Wires77)\n\n--- Fixed Bugs ---\n* Fix mods not applying to Vaal gems correctly (sida-wang)",
+            "tree": {
+                "sha": "1305fd1492a12011aa855f570d166d2fa6b34034",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/1305fd1492a12011aa855f570d166d2fa6b34034"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/9715de5521ab36de00d0f3acdd41dd426e50be7b",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/9715de5521ab36de00d0f3acdd41dd426e50be7b",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/9715de5521ab36de00d0f3acdd41dd426e50be7b",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/9715de5521ab36de00d0f3acdd41dd426e50be7b/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "3e24abb115ff4bc9d52727a7b154ec2b020788fa",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/3e24abb115ff4bc9d52727a7b154ec2b020788fa",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/3e24abb115ff4bc9d52727a7b154ec2b020788fa"
+            }
+        ]
+    },
+    {
+        "sha": "3e24abb115ff4bc9d52727a7b154ec2b020788fa",
+        "node_id": "C_kwDODEvm_doAKDNlMjRhYmIxMTVmZjRiYzlkNTI3MjdhN2IxNTRlYzJiMDIwNzg4ZmE",
+        "commit": {
+            "author": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-24T18:58:52Z"
+            },
+            "committer": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-24T18:58:52Z"
+            },
+            "message": "Merge branch 'dev'",
+            "tree": {
+                "sha": "118ff2c4297198e4d6e1d6bd7ca762d4820103e4",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/118ff2c4297198e4d6e1d6bd7ca762d4820103e4"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/3e24abb115ff4bc9d52727a7b154ec2b020788fa",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/3e24abb115ff4bc9d52727a7b154ec2b020788fa",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/3e24abb115ff4bc9d52727a7b154ec2b020788fa",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/3e24abb115ff4bc9d52727a7b154ec2b020788fa/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "783daf0da059bac666a9cec5702ef9d46c4c833c",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/783daf0da059bac666a9cec5702ef9d46c4c833c",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/783daf0da059bac666a9cec5702ef9d46c4c833c"
+            },
+            {
+                "sha": "b3ad4031f9d383e58034cdbf23723a7e38e2c1a8",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/b3ad4031f9d383e58034cdbf23723a7e38e2c1a8",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/b3ad4031f9d383e58034cdbf23723a7e38e2c1a8"
+            }
+        ]
+    },
+    {
+        "sha": "b3ad4031f9d383e58034cdbf23723a7e38e2c1a8",
+        "node_id": "C_kwDODEvm_doAKGIzYWQ0MDMxZjlkMzgzZTU4MDM0Y2RiZjIzNzIzYTdlMzhlMmMxYTg",
+        "commit": {
+            "author": {
+                "name": "github-actions[bot]",
+                "email": "41898282+github-actions[bot]@users.noreply.github.com",
+                "date": "2024-01-24T18:58:29Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-24T18:58:29Z"
+            },
+            "message": "Release 2.39.1 (#7306)\n\n* Prepare release 2.39.1\r\n\r\n* Fix changelogs\r\n\r\n---------\r\n\r\nCo-authored-by: LocalIdentity <LocalIdentity@users.noreply.github.com>\r\nCo-authored-by: LocalIdentity <localidentity2@gmail.com>",
+            "tree": {
+                "sha": "118ff2c4297198e4d6e1d6bd7ca762d4820103e4",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/118ff2c4297198e4d6e1d6bd7ca762d4820103e4"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/b3ad4031f9d383e58034cdbf23723a7e38e2c1a8",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJlsV3VCRC1aQ7uu5UhlAAAQg0QAKj7Z4Fn0uNjD8fXFCep8fMr\ntchDGfEEHF5qyG8V1B7yg6xzmzscXM9EIqHgbaixqmoTwRadYxZcatAw67O9PBlw\nUwol+jBIgO3T9LBYVRc8nY6UDWMYhuwYqyXd0AkrQPNQNt2LlOHa9c/XFvqdDO/n\nrVFlWuaT6RL4i4VvKNqXl7dNKN7z/bs/aOHF5ote7RPE/G8EUwkbJYL54fZbGwiO\njXMoAXLWDYW2OgDuoWCfLqEeFVstKaNkcxYsnGtsWPyTMlTNWBRuSpc6xcYagNfu\n/NX42w7ZXe3u0MJ6eD8CPtDGqgmGoxrNXZb3cYt2Cc2WsAWAUOuhRmm/WnNZfYIc\nCTAF+46XPJXcVy+GBoCslCtTMqPI5UaNqDjqHYWImEXzykhoth1uI7R57mZERbnO\nrj7PVaueGCro2rYSjEoMQ/Tdybea0pr2d1Uicq/DfD13RvKf2hCfVncf/3GjrHMh\njn5RKGw3OstzPIyeYSLWWJn5Kjcc0nY6g33j1tYjOUc+NlwOnGG22NbEMxjiZsWm\np6dmkKdqw52Wi+qV62X/HZADFo15DVF1mE0BZ6GAT/AMUo7FIjl90H1OLbAZTNPb\nAtGgsdyBqt4XPyiQtpXu7jqAZ38FxpAb9/rJkBeS+q7SHmQ2u0ICQm9joCDVTytq\n8sg0ZUw93TmCUN+eL1ju\n=BU/S\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 118ff2c4297198e4d6e1d6bd7ca762d4820103e4\nparent 7971487817f10a8fd467b05a69e360cb338ccab0\nauthor github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> 1706122709 +1100\ncommitter GitHub <noreply@github.com> 1706122709 +1100\n\nRelease 2.39.1 (#7306)\n\n* Prepare release 2.39.1\r\n\r\n* Fix changelogs\r\n\r\n---------\r\n\r\nCo-authored-by: LocalIdentity <LocalIdentity@users.noreply.github.com>\r\nCo-authored-by: LocalIdentity <localidentity2@gmail.com>"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/b3ad4031f9d383e58034cdbf23723a7e38e2c1a8",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/b3ad4031f9d383e58034cdbf23723a7e38e2c1a8",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/b3ad4031f9d383e58034cdbf23723a7e38e2c1a8/comments",
+        "author": {
+            "login": "github-actions[bot]",
+            "id": 41898282,
+            "node_id": "MDM6Qm90NDE4OTgyODI=",
+            "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+            "html_url": "https://github.com/apps/github-actions",
+            "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+            "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+            "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+            "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+            "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+            "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+            "type": "Bot",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "7971487817f10a8fd467b05a69e360cb338ccab0",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/7971487817f10a8fd467b05a69e360cb338ccab0",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/7971487817f10a8fd467b05a69e360cb338ccab0"
+            }
+        ]
+    },
+    {
+        "sha": "7971487817f10a8fd467b05a69e360cb338ccab0",
+        "node_id": "C_kwDODEvm_doAKDc5NzE0ODc4MTdmMTBhOGZkNDY3YjA1YTY5ZTM2MGNiMzM4Y2NhYjA",
+        "commit": {
+            "author": {
+                "name": "Peechey",
+                "email": "92683202+Peechey@users.noreply.github.com",
+                "date": "2024-01-24T18:12:28Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-24T18:12:28Z"
+            },
+            "message": "Refactor scrollbar input events (#7304)\n\n* allow scroll wheel to scroll item trader\r\n\r\n* centralize/refactor scroll up, scroll down for all scrollBars",
+            "tree": {
+                "sha": "e2a234d8c2233b3cf17eb5de51d0185a87afc009",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/e2a234d8c2233b3cf17eb5de51d0185a87afc009"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/7971487817f10a8fd467b05a69e360cb338ccab0",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJlsVMMCRC1aQ7uu5UhlAAAyc8QAEkqWQPR2wppBu1KpumPYAm6\nKEF7PIKoYwgdWdXN/X23kNDxT5raPyymP1Y5V5AfsluDj7i4qPByBgBrTn62Llr8\n2QN2IPG0OCbaTWnYDWItug894AbqZU/rCypZ48+B0WUDWlgNbkQXCJzKeliHfDbS\nDh49EWDEeJI01FkUS6CFj6nBFgLh5zoWzJE36Bg8wawilRz6eK5k1f9LlbN9b60R\ngv7V/1YqXF2xI6uvohFcKhHpYboPWErFVk34JdBIxbmwlob5+7tELP7uTLqgaMAC\nrY5FwiFrxnGcNsHEACkUvHGwe2R6N8vOQpl7FDk8g2M9GCqoFvlhqQlyHfn01xIE\ngB4eKk1CkJNvs7tSJkNbf52kvHnns2PuvWeRIwF+mFIV3jqciY+yzWIlK8D58Uz4\nYq54v6Grd9HNe94lAieHjgxxBuYYso+5Bd6Xc7AHa3BOTbjjztXtVMoosvWEjZyk\n0c195YBk4R2IDP68qpoFYUg8jV1rpe2q44a9Xy3iaY6wUe58xKnwR/18p8LR9N40\nBfCiOqLoKfGbr7qOQGhESRzDEwQr9PflpQGDsEbCUFC3zS9BFlI106Btdk8q63/b\nrDojfReY+Ax2VUS2iMBzxCOiIbzfFK93pQjRomZIJl1e/n4YVkGlHv0CjtXY+Uld\nt0vyBFqjA9tH+jtYKsmc\n=MPLW\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree e2a234d8c2233b3cf17eb5de51d0185a87afc009\nparent dfcaa402ee122412dec77cd4ee659dbb35a83995\nauthor Peechey <92683202+Peechey@users.noreply.github.com> 1706119948 -0600\ncommitter GitHub <noreply@github.com> 1706119948 +1100\n\nRefactor scrollbar input events (#7304)\n\n* allow scroll wheel to scroll item trader\r\n\r\n* centralize/refactor scroll up, scroll down for all scrollBars"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/7971487817f10a8fd467b05a69e360cb338ccab0",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/7971487817f10a8fd467b05a69e360cb338ccab0",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/7971487817f10a8fd467b05a69e360cb338ccab0/comments",
+        "author": {
+            "login": "Peechey",
+            "id": 92683202,
+            "node_id": "U_kgDOBYY7wg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/92683202?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Peechey",
+            "html_url": "https://github.com/Peechey",
+            "followers_url": "https://api.github.com/users/Peechey/followers",
+            "following_url": "https://api.github.com/users/Peechey/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Peechey/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Peechey/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Peechey/subscriptions",
+            "organizations_url": "https://api.github.com/users/Peechey/orgs",
+            "repos_url": "https://api.github.com/users/Peechey/repos",
+            "events_url": "https://api.github.com/users/Peechey/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Peechey/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "dfcaa402ee122412dec77cd4ee659dbb35a83995",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/dfcaa402ee122412dec77cd4ee659dbb35a83995",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/dfcaa402ee122412dec77cd4ee659dbb35a83995"
+            }
+        ]
+    },
+    {
+        "sha": "dfcaa402ee122412dec77cd4ee659dbb35a83995",
+        "node_id": "C_kwDODEvm_doAKGRmY2FhNDAyZWUxMjI0MTJkZWM3N2NkNGVlNjU5ZGJiMzVhODM5OTU",
+        "commit": {
+            "author": {
+                "name": "Sida Wang",
+                "email": "42928828+sida-wang@users.noreply.github.com",
+                "date": "2024-01-24T18:09:42Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-24T18:09:42Z"
+            },
+            "message": "Fix config options not applying to Vaal skill gems  (#7300)\n\n* fix: set skillName match to use function\r\n\r\n* fix: method of getting base gem from vaal gem",
+            "tree": {
+                "sha": "a1aeceb4b65c504ec5424d356bed0dbbebdd7656",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/a1aeceb4b65c504ec5424d356bed0dbbebdd7656"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/dfcaa402ee122412dec77cd4ee659dbb35a83995",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJlsVJmCRC1aQ7uu5UhlAAAW/EQAC6O5M+hxBa89sFNJOAVtbfN\nMJt3ukYtGdUyOvQswrjZrloUNvcUKroL76hzQuXjf36izFhaVb632d6Mrdmo7vmp\nqIqLWljNIkndKi4SgfZQS59lIHQMiu3iS+cAro/mCHClB4zGrjelnnV97BRSoQFh\nBsQSaqtnGK7ZNH93aupIA0Aj0uRmXTRqLMKW9xh0gsmwOBQ2jchq1g2WtptVHclJ\nXJhW464OrQFkO06MJTqahK8VKTbKNh/sW1miLiGcXuWLuxgbleh5FJvmK8b+Sj21\n5IRUdN2worCoa+1hbAeYv0b9B3DQhPupPYJOsEvNmdEV869WklMJVs0IfyQZmT16\ndGTgRs2Ir1n7iB7oQKZtlpKKK0GBeAMAUBTsjCNolGyj/c+KZQwjIteF3uxgPMFa\nbk/4QNixxpgKRqkgQTOVZy7Ik3+jWYeFww1YrF4tu2TuFMT4XchyRH/0yaYKdlCB\ncG4FuyeB5lNWVkPBy2Yl1UMXxIRb3nzgPmiKtCSDf3iSOYR1MUaGsoPsh6ztXWTb\nehzgXpaXaqJ7AS7Rtv85xfy9F89ljpkZZ2NfFSE03036qmXy5/jmoWTx/dBovxfm\nQVMS4sKinXsIo23I1whA4FKFhxNMvqVX3s8BFrK/xAwTcd6RBLxUoTtE6K9Pntx7\njVC6PasWMtX02eHg6CCa\n=rTPl\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree a1aeceb4b65c504ec5424d356bed0dbbebdd7656\nparent 9de994d82d53ad49c7c6af2788b08640cde7e794\nauthor Sida Wang <42928828+sida-wang@users.noreply.github.com> 1706119782 +1100\ncommitter GitHub <noreply@github.com> 1706119782 +1100\n\nFix config options not applying to Vaal skill gems  (#7300)\n\n* fix: set skillName match to use function\r\n\r\n* fix: method of getting base gem from vaal gem"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/dfcaa402ee122412dec77cd4ee659dbb35a83995",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/dfcaa402ee122412dec77cd4ee659dbb35a83995",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/dfcaa402ee122412dec77cd4ee659dbb35a83995/comments",
+        "author": {
+            "login": "sida-wang",
+            "id": 42928828,
+            "node_id": "MDQ6VXNlcjQyOTI4ODI4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/42928828?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/sida-wang",
+            "html_url": "https://github.com/sida-wang",
+            "followers_url": "https://api.github.com/users/sida-wang/followers",
+            "following_url": "https://api.github.com/users/sida-wang/following{/other_user}",
+            "gists_url": "https://api.github.com/users/sida-wang/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/sida-wang/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/sida-wang/subscriptions",
+            "organizations_url": "https://api.github.com/users/sida-wang/orgs",
+            "repos_url": "https://api.github.com/users/sida-wang/repos",
+            "events_url": "https://api.github.com/users/sida-wang/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/sida-wang/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "9de994d82d53ad49c7c6af2788b08640cde7e794",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/9de994d82d53ad49c7c6af2788b08640cde7e794",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/9de994d82d53ad49c7c6af2788b08640cde7e794"
+            }
+        ]
+    },
+    {
+        "sha": "9de994d82d53ad49c7c6af2788b08640cde7e794",
+        "node_id": "C_kwDODEvm_doAKDlkZTk5NGQ4MmQ1M2FkNDljN2M2YWYyNzg4YjA4NjQwY2RlN2U3OTQ",
+        "commit": {
+            "author": {
+                "name": "Wires77",
+                "email": "Wires77@users.noreply.github.com",
+                "date": "2024-01-24T18:08:49Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-24T18:08:49Z"
+            },
+            "message": "Fix sorting for unrelated stats (#7303)\n\n* Fix sorting for unrelated stats\r\n\r\n* Restore sorting pre-defined types\r\n\r\n* Sort all by stat first",
+            "tree": {
+                "sha": "aa71cee066177392a2114d1b2e14ad5f1564a17c",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/aa71cee066177392a2114d1b2e14ad5f1564a17c"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/9de994d82d53ad49c7c6af2788b08640cde7e794",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJlsVIxCRC1aQ7uu5UhlAAA7xIQAF/dYAfF5mIhonSV5/zX2nha\ni9e8oydGboVfrqBhFVGbQwhJnuWWc8CDvbAsjrw4uNItH/Qh4wBInve3t3/2Nzxz\nszypRw4+3sUUK0e2G5sGGQ2ddlaR4alVM1eBGosfLTktQbnqRl4cMPCOQ+tK5OEg\nfK+a+r5LmbF8xpYdSjso7pi0jG0l2u+s/CxLqssUd4C5vrvKnpq02ATXXiWBLvat\naXdSC/o+RkQyMD1tsoqVwxQsGFEwOJZLNKAKewg1rLbiOzJCR1xmWsy7K+v+fE+J\ncW1P2cC8Vt7jL8L8uhUQ4GPkjuQhJSZblQ6Cf7m/Zg1dVEuCOnIEM2W5zK4xlq/b\nleDX0fx6NlmpUUWKMrrOWMp1PKAKYn9D0Vj232pinIuUByKTxrPZEZ0SwXR9NBSD\ngWbdKmHjPr5LpLcL7gIeqNiokpqvAnIh11ndvtgSdy8COSBf/vhjNyA4jpVdXLkM\nSVZrU/l8xgMG4pe0c6kEtpJhd3L31KcKxBL5trDWMpB6IcQr1Q3RsVGQAE7G7etJ\n3GMzeebAtoYL6TxCry9bh8SAkAJrgQ7i49ifTWd/ugT6jRiaMhyFuZ8kgaB6DgQ5\nNAJLLkc6sLRsElRYob//zJKTBjS7Aj6mNbsE+Ip61RUqiJRG4Ra5yRM8xdjjNAeB\nhB7oBop66L8JiSKOJUpy\n=Lp1/\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree aa71cee066177392a2114d1b2e14ad5f1564a17c\nparent 2b6a773d85189e14da015f8d98a39c03a03230a3\nauthor Wires77 <Wires77@users.noreply.github.com> 1706119729 -0600\ncommitter GitHub <noreply@github.com> 1706119729 +1100\n\nFix sorting for unrelated stats (#7303)\n\n* Fix sorting for unrelated stats\r\n\r\n* Restore sorting pre-defined types\r\n\r\n* Sort all by stat first"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/9de994d82d53ad49c7c6af2788b08640cde7e794",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/9de994d82d53ad49c7c6af2788b08640cde7e794",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/9de994d82d53ad49c7c6af2788b08640cde7e794/comments",
+        "author": {
+            "login": "Wires77",
+            "id": 1209372,
+            "node_id": "MDQ6VXNlcjEyMDkzNzI=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1209372?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Wires77",
+            "html_url": "https://github.com/Wires77",
+            "followers_url": "https://api.github.com/users/Wires77/followers",
+            "following_url": "https://api.github.com/users/Wires77/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Wires77/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Wires77/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Wires77/subscriptions",
+            "organizations_url": "https://api.github.com/users/Wires77/orgs",
+            "repos_url": "https://api.github.com/users/Wires77/repos",
+            "events_url": "https://api.github.com/users/Wires77/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Wires77/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "2b6a773d85189e14da015f8d98a39c03a03230a3",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/2b6a773d85189e14da015f8d98a39c03a03230a3",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/2b6a773d85189e14da015f8d98a39c03a03230a3"
+            }
+        ]
+    },
+    {
+        "sha": "2b6a773d85189e14da015f8d98a39c03a03230a3",
+        "node_id": "C_kwDODEvm_doAKDJiNmE3NzNkODUxODllMTRkYTAxNWY4ZDk4YTM5YzAzYTAzMjMwYTM",
+        "commit": {
+            "author": {
+                "name": "Wires77",
+                "email": "Wires77@users.noreply.github.com",
+                "date": "2024-01-24T18:03:04Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-24T18:03:04Z"
+            },
+            "message": "Fix crash when hovering attribute requirements (#7302)",
+            "tree": {
+                "sha": "fcd2b8768338f4af990c9e2631f6d28cc4391ce6",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/fcd2b8768338f4af990c9e2631f6d28cc4391ce6"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/2b6a773d85189e14da015f8d98a39c03a03230a3",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJlsVDYCRC1aQ7uu5UhlAAA/1EQAKKoP65HMHepKsWcI12Oyacr\n4ANM/VVirumnlK/X+VsCaJ/cpDlsk/a9yKj/ebjj0NTodIs0rjvH9Cpy8Ag0V8tn\nV6YbNlg2p0DXP++s9jcQvrD4F+mRZgyRlExrYThQ/9SWytt6O78igPzCaUz9xbNe\nqyHzB79SWJNE1m7iH5ddkHRvgl1ptpAfabNeRCohtu2ZEVbSOwwCpRONVtsC+KIw\nPp4wfZhlHiptb2Tttw+ZAS8WqfKZgTAAjigoTxXhXVWqH+BXZU5PBU7zdvM1cGXF\nuCORLFp4cLyeHprfsVwzjlYFj5GSBmWlHhwNwSk4l7oeqpOd9ipjolJItgu/TmQF\nWlbAI6Oc2QmrUpiPIGUyBZ4ydLL/JB31+jy3gkzgwyrtZRok8JflglAashD71rH7\nb2fAQLuwLTtD0+iQc3HAbsk/7rm2EnGFyPkuUkNOMdYd7QE/tCJZ3e46Hm2C9AGV\nIaC5xyLnjqMnL3Ko143Znf5PVi59eA7pDbIMeAjO87NKxQ82mC4tOt5twBFHJnu2\nmnZGkWJsiCMhk3EVaVVfmTeJUPlZeKKLqHftKbCS5IrQvudsgDeDMbe8V8gqBBPg\n3CVNan69prlTBm2psx0mI7UKSH1VGRMKQWIB9P4I6adyxcA+dgeBmPaZgBdKLKDS\nSPEHqgO4uM06DpfCd4TX\n=q6HU\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree fcd2b8768338f4af990c9e2631f6d28cc4391ce6\nparent 58d6915fe64ebb3a706434433fb28ab01cddf00f\nauthor Wires77 <Wires77@users.noreply.github.com> 1706119384 -0600\ncommitter GitHub <noreply@github.com> 1706119384 +1100\n\nFix crash when hovering attribute requirements (#7302)\n\n"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/2b6a773d85189e14da015f8d98a39c03a03230a3",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/2b6a773d85189e14da015f8d98a39c03a03230a3",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/2b6a773d85189e14da015f8d98a39c03a03230a3/comments",
+        "author": {
+            "login": "Wires77",
+            "id": 1209372,
+            "node_id": "MDQ6VXNlcjEyMDkzNzI=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1209372?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Wires77",
+            "html_url": "https://github.com/Wires77",
+            "followers_url": "https://api.github.com/users/Wires77/followers",
+            "following_url": "https://api.github.com/users/Wires77/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Wires77/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Wires77/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Wires77/subscriptions",
+            "organizations_url": "https://api.github.com/users/Wires77/orgs",
+            "repos_url": "https://api.github.com/users/Wires77/repos",
+            "events_url": "https://api.github.com/users/Wires77/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Wires77/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "58d6915fe64ebb3a706434433fb28ab01cddf00f",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/58d6915fe64ebb3a706434433fb28ab01cddf00f",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/58d6915fe64ebb3a706434433fb28ab01cddf00f"
+            }
+        ]
+    },
+    {
+        "sha": "58d6915fe64ebb3a706434433fb28ab01cddf00f",
+        "node_id": "C_kwDODEvm_doAKDU4ZDY5MTVmZTY0ZWJiM2E3MDY0MzQ0MzNmYjI4YWIwMWNkZGYwMGY",
+        "commit": {
+            "author": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-24T18:01:31Z"
+            },
+            "committer": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-24T18:01:31Z"
+            },
+            "message": "Revert Cluster Jewel import",
+            "tree": {
+                "sha": "306375f60fe4ab3d2914edfb0bbe7e28d190af93",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/306375f60fe4ab3d2914edfb0bbe7e28d190af93"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/58d6915fe64ebb3a706434433fb28ab01cddf00f",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/58d6915fe64ebb3a706434433fb28ab01cddf00f",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/58d6915fe64ebb3a706434433fb28ab01cddf00f",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/58d6915fe64ebb3a706434433fb28ab01cddf00f/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "74f5a23872ac2fa85c5e478528f62109d0a5a158",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/74f5a23872ac2fa85c5e478528f62109d0a5a158",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/74f5a23872ac2fa85c5e478528f62109d0a5a158"
+            }
+        ]
+    },
+    {
+        "sha": "74f5a23872ac2fa85c5e478528f62109d0a5a158",
+        "node_id": "C_kwDODEvm_doAKDc0ZjVhMjM4NzJhYzJmYTg1YzVlNDc4NTI4ZjYyMTA5ZDBhNWExNTg",
+        "commit": {
+            "author": {
+                "name": "Wires77",
+                "email": "Wires77@users.noreply.github.com",
+                "date": "2024-01-24T05:57:55Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-24T05:57:55Z"
+            },
+            "message": "Fix charge duration not calculating (#7296)",
+            "tree": {
+                "sha": "69a2bc83cb0a7b1b31059749b636aeabf7b9711d",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/69a2bc83cb0a7b1b31059749b636aeabf7b9711d"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/74f5a23872ac2fa85c5e478528f62109d0a5a158",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJlsKbjCRC1aQ7uu5UhlAAAQysQABCuz4BkG1ARTX2egQHTR/Sh\nKSoJomxHoY0NE1xa8wVxhbwv4zaGZaEeGcWvhmL4cEFyJYcLLt8HGPcEWIU4vWDR\nNCcXz1Vt9kK81toW/C069E3DnjU9p9CXvGFsOXqpFjAszMMHMBQIcKwVt8kc9VHV\nCJ6Smi1ExvdNeD1h2C88tjphjKaaOUDeUCJvcBWcv9YoEvdWgVvfmJ6RM8HI4/fk\neH4vYkoEEIUXNAiTltfPUsmx/Oc6rNNI/vdbp7K1U0Bq1fyOxy+qm6DIOVBXJEL8\n7cVGxM+QM29AEVCxvYBYMSbwm1lNGbh9/C6wDv2/792IEdz1VffjiCdHnjdFcA85\nq0TzM/Rgahk6K2IJqYEZBPAy9HECBiPt8+dsuokOYKd5dkd+OTQmr+MGAmuvj5gv\nfM+fIFFF/o7AOioRzDRE2H2SN3yQqUjeAw+SaNhafc7Vr5jlfZUpTteo/daEWs+u\nRbYZ6YnRAvqUu4hHZiB3kma1uCeJw7+yK3yIlq7XphPq09dnCEKMCg+hy5n9ROqs\n5MpnO95tK8GEZ3ez46Bb1v185CuL9pmzFiIHgiFc2EtD9LbB+1Qiz/nWP9sL1LEw\nx724S7050EVBPqv4ZdrnBh/Or/sf8nuQYoi74oDtKG6jL/5mmnVhXoPS/3k3aS4i\noGYdN/HB/EsT/+dmqF4o\n=YGKR\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 69a2bc83cb0a7b1b31059749b636aeabf7b9711d\nparent 524e962dd37f86f13a412e43bbc0f4e37eff09ce\nauthor Wires77 <Wires77@users.noreply.github.com> 1706075875 -0600\ncommitter GitHub <noreply@github.com> 1706075875 +1100\n\nFix charge duration not calculating (#7296)\n\n"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/74f5a23872ac2fa85c5e478528f62109d0a5a158",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/74f5a23872ac2fa85c5e478528f62109d0a5a158",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/74f5a23872ac2fa85c5e478528f62109d0a5a158/comments",
+        "author": {
+            "login": "Wires77",
+            "id": 1209372,
+            "node_id": "MDQ6VXNlcjEyMDkzNzI=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1209372?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Wires77",
+            "html_url": "https://github.com/Wires77",
+            "followers_url": "https://api.github.com/users/Wires77/followers",
+            "following_url": "https://api.github.com/users/Wires77/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Wires77/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Wires77/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Wires77/subscriptions",
+            "organizations_url": "https://api.github.com/users/Wires77/orgs",
+            "repos_url": "https://api.github.com/users/Wires77/repos",
+            "events_url": "https://api.github.com/users/Wires77/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Wires77/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "524e962dd37f86f13a412e43bbc0f4e37eff09ce",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/524e962dd37f86f13a412e43bbc0f4e37eff09ce",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/524e962dd37f86f13a412e43bbc0f4e37eff09ce"
+            }
+        ]
+    },
+    {
+        "sha": "524e962dd37f86f13a412e43bbc0f4e37eff09ce",
+        "node_id": "C_kwDODEvm_doAKDUyNGU5NjJkZDM3Zjg2ZjEzYTQxMmU0M2JiYzBmNGUzN2VmZjA5Y2U",
+        "commit": {
+            "author": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-23T20:02:28Z"
+            },
+            "committer": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-23T20:02:28Z"
+            },
+            "message": "Merge branch 'master' into dev",
+            "tree": {
+                "sha": "19dd0d1d3c65c7d11472bf9bde14bfc567b4058b",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/19dd0d1d3c65c7d11472bf9bde14bfc567b4058b"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/524e962dd37f86f13a412e43bbc0f4e37eff09ce",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/524e962dd37f86f13a412e43bbc0f4e37eff09ce",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/524e962dd37f86f13a412e43bbc0f4e37eff09ce",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/524e962dd37f86f13a412e43bbc0f4e37eff09ce/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "4c5cddcd8fd5cf504bf745bfa2b3b7c2d5cf5aec",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/4c5cddcd8fd5cf504bf745bfa2b3b7c2d5cf5aec",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/4c5cddcd8fd5cf504bf745bfa2b3b7c2d5cf5aec"
+            },
+            {
+                "sha": "783daf0da059bac666a9cec5702ef9d46c4c833c",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/783daf0da059bac666a9cec5702ef9d46c4c833c",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/783daf0da059bac666a9cec5702ef9d46c4c833c"
+            }
+        ]
+    },
+    {
+        "sha": "783daf0da059bac666a9cec5702ef9d46c4c833c",
+        "node_id": "C_kwDODEvm_doAKDc4M2RhZjBkYTA1OWJhYzY2NmE5Y2VjNTcwMmVmOWQ0NmM0YzgzM2M",
+        "commit": {
+            "author": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-23T19:49:55Z"
+            },
+            "committer": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-23T19:49:55Z"
+            },
+            "message": "Release 2.39.0\n\n--- New to Path of Building ---\n* Add all new 3.23 Spectres (LocalIdentity)\n* Fix longstanding issues with minion stats (more fixes will come in future updates) (LocalIdentity, ifnjeff)\n  * Some Minion Attacks will reduce by 10-30% DPS\n  * Life values of some minions will change\n  * Spectre DPS values will reduce for some monsters\n  * Armour and Evasion values will drastically increase\n* Add support gem DPS sorting for Skills granted by Items (e.g. Arakaali's Fang, Whispering Ice etc.) (Paliak, sida-wang)\n* Add That Which Was Taken jewel to unique list (justjuangui)\n* Add support for filtering on number of Sockets and Links in Item Trader (Peechey)\n* Add config to set the effect of Ruthless Support (LocalIdentity)\n* Add support for resetting Search Weights in Item Trader (Peechey)\n* Add support for Spectre buffs (justjuangui)\n* Show Accuracy above Life when using Precise Technique (Peechey)\n* Add support for converting all trees to latest version (Peechey)\n* Add breakdown for Endurance, Frenzy and Power charges (duiker101)\n\n--- Fixed Crashes ---\n* Fix Crash on Beta branch when using trade search (secondfry)\n* Fix Crash on clicking \"Show All Configurations\" in new build (Paliak)\n* Fix Crash when skills granting buffs that rely on buffs are disabled (Paliak)\n\n--- User Interface ---\n* Sort the Calculations Tab breakdown lists by value (duiker101)\n* Add scrollbar to Item Trader when large number of sockets are allocated (Peechey)\n* Fix Boneshatter missing self damage breakdown (Paliak)\n* Fix Rage Cost of Vaal Skills not displaying correctly for Hateforge (sida-wang)\n* Fix Powerful/Frenzied Faith displaying incorrectly in the Timeless Jewel search (sida-wang)\n\n--- Fixed Bugs ---\n* Fix Law of the Wilds using the wrong minion data (LocalIdentity)\n* Fix Blink/Mirror Arrow of Bombarding/Prismatic using wrong Minion Skills (LocalIdentity)\n* Fix Cluster Jewel import not allocating nodes correctly by (sida-wang, Peechey)\n* Fix importing of Vaal Impurity Skills and Transfigured Vaal Summon Skeletons (sida-wang)\n* Fix mods that apply to skill gems, not applying to their Transfigured versions by (sida-wang, Paliak)\n* Fix loading of Passive Tree dropdown in Items Tab (Peechey)\n* Cap Doom Blast expiration mode and use charge based calcs for skills that ignore tick rate (Paliak)\n* Fix bug where Precursor's Emblem's curse mod was not working (Drox346)\n* Fix Flask effect increasing the Culling strike threshold from Voranas Preparation (Paliak)\n* Fix Ngamahu, Flame's Advance adding Strength to Unique jewels (Paliak)\n* Fix Vortex of Projection damage when cast on Frostbolt from increased to more (sida-wang)\n* Fix Brand duration incorrectly affecting Duration of skills cast by Arcanist Brand (Paliak)\n* Fix Trigger rate calculations when dual wielding 1h weapons (Paliak)\n* Fixes Effective Trigger rate not accounting for Evasion roll for on Crit Triggers (Paliak)\n* Fix Ruthless Support applying to Tawhoa's Chosen (Paliak)\n* Fix Inspiration Charges not applying to Minion Skills (sida-wang)\n* Fix skill effect duration from buffs not applying to Earthquake of Amplification Aftershock (sida-wang)\n* Fix Poison Duration from Charms stacking with Noxious Strike (sida-wang)\n* Fix Base Damage from Transfigured shield skills not being applied (sida-wang)\n* Fix added Cooldown and added Cast Time not working correctly (Paliak)\n* Fix Kalandra's Touch not adding to influenced items multiplier (Paliak)\n* Fix resistance calculations when using Glimpse of Chaos and Chieftain Tasalio node (sida-wang)\n* Fix Oath of the Maji not stacking with Juggernaut's Unbreakable (wkingston1248)\n\n--- Accuracy Improvements ---\n* Fix mod parsing for Militant Faith Cloistered Notable (Peechey)\n* Fix incorrect base Mana cost of Toxic Rain with Mirage Archer (Paliak)\n* Fix Unnatural Instinct incorrectly working with Pure Talent (Paliak)\n* Fix Stun and Block Duration not rounding to server ticks (LocalIdentity)",
+            "tree": {
+                "sha": "19dd0d1d3c65c7d11472bf9bde14bfc567b4058b",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/19dd0d1d3c65c7d11472bf9bde14bfc567b4058b"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/783daf0da059bac666a9cec5702ef9d46c4c833c",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/783daf0da059bac666a9cec5702ef9d46c4c833c",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/783daf0da059bac666a9cec5702ef9d46c4c833c",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/783daf0da059bac666a9cec5702ef9d46c4c833c/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "0c9e64b97de27d0a6af500d2498e98b04ad45a88",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/0c9e64b97de27d0a6af500d2498e98b04ad45a88",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/0c9e64b97de27d0a6af500d2498e98b04ad45a88"
+            }
+        ]
+    },
+    {
+        "sha": "0c9e64b97de27d0a6af500d2498e98b04ad45a88",
+        "node_id": "C_kwDODEvm_doAKDBjOWU2NGI5N2RlMjdkMGE2YWY1MDBkMjQ5OGU5OGIwNGFkNDVhODg",
+        "commit": {
+            "author": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-23T19:21:15Z"
+            },
+            "committer": {
+                "name": "LocalIdentity",
+                "email": "localidentity2@gmail.com",
+                "date": "2024-01-23T19:21:15Z"
+            },
+            "message": "Merge branch 'dev'",
+            "tree": {
+                "sha": "2a0133d139e56f62261da601f3194933ac3a5ea9",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/2a0133d139e56f62261da601f3194933ac3a5ea9"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/0c9e64b97de27d0a6af500d2498e98b04ad45a88",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/0c9e64b97de27d0a6af500d2498e98b04ad45a88",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/0c9e64b97de27d0a6af500d2498e98b04ad45a88",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/0c9e64b97de27d0a6af500d2498e98b04ad45a88/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "28316c9bfe2fd13c73b236ee4111c9d09b852af5",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/28316c9bfe2fd13c73b236ee4111c9d09b852af5",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/28316c9bfe2fd13c73b236ee4111c9d09b852af5"
+            },
+            {
+                "sha": "4c5cddcd8fd5cf504bf745bfa2b3b7c2d5cf5aec",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/4c5cddcd8fd5cf504bf745bfa2b3b7c2d5cf5aec",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/4c5cddcd8fd5cf504bf745bfa2b3b7c2d5cf5aec"
+            }
+        ]
+    },
+    {
+        "sha": "4c5cddcd8fd5cf504bf745bfa2b3b7c2d5cf5aec",
+        "node_id": "C_kwDODEvm_doAKDRjNWNkZGNkOGZkNWNmNTA0YmY3NDViZmEyYjNiN2MyZDVjZjVhZWM",
+        "commit": {
+            "author": {
+                "name": "github-actions[bot]",
+                "email": "41898282+github-actions[bot]@users.noreply.github.com",
+                "date": "2024-01-23T19:20:39Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-23T19:20:39Z"
+            },
+            "message": "Release 2.39.0 (#7284)\n\n* Prepare release 2.39.0\r\n\r\n* Fix Changelogs\r\n\r\n---------\r\n\r\nCo-authored-by: LocalIdentity <LocalIdentity@users.noreply.github.com>\r\nCo-authored-by: LocalIdentity <localidentity2@gmail.com>",
+            "tree": {
+                "sha": "2a0133d139e56f62261da601f3194933ac3a5ea9",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/2a0133d139e56f62261da601f3194933ac3a5ea9"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/4c5cddcd8fd5cf504bf745bfa2b3b7c2d5cf5aec",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJlsBGHCRC1aQ7uu5UhlAAAoaYQAC6tCqAnIWGSsLaytAxM14f9\nBYruaUJ6HK1Y6uO7TA9NkhxXw9lB/1eyvf3my1tiBkHHd+Hj24YwgI2obpcdTFv6\nxeXebePDKYqklJE2ypt9aMOcy1ASBGImeidau4Byc2QeAwt7wxA4gKSt8l3H//RR\nPLJ9BKyIXxjLOXkj/WmGGENfLCBnX3fTCpoU3HYJzQeCfOA2GB85wd0uqWqPd+13\npWlJnJsjNivnBw4RtZOBR8npnEB5Xt3vxshvQHzocKMCX8WQY1NZDX8AyiBwGfyM\nFSFU1dhYDxvHjKvZXSZ2jOzP8eJtH87wl7ttSQAuKdoUKNYkasf9bIvFlm9OxJQf\n+vCHNc8nJhcWFFlN+EC0nCy1Ww3ATL8Wh9AvVjjFQpQjy+9VvvXLEZijlNqs4spW\ncBh53+oVisQYNEHBQdAnhNLZKukJxjxsGlKdrSRxDnl4SpsnBJ+Sv5daEGGVgiqx\nil/L9xGnW+7VQOdzVQhi0taJBpGsSKQeGRfY1l9+TswG1nPtl/IKd9i1JZKrHQoy\ndB3BGQEFzRrpt5MPNdeBilNpsLM+JGdzzhSmucjRZEwREGgqJh6efqvZgAKE76qt\nsQHJmcLHdp5cvosWoAd7KW1LIGSz/JmRki0eaudwP1zUu0H4Hwo/U6QA98K2+g+M\n3G97fEa8f8j9exxoJQBc\n=0M8H\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 2a0133d139e56f62261da601f3194933ac3a5ea9\nparent 1f6a0f3701d644a151d6c768f69a5fe419bef85d\nauthor github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> 1706037639 +1100\ncommitter GitHub <noreply@github.com> 1706037639 +1100\n\nRelease 2.39.0 (#7284)\n\n* Prepare release 2.39.0\r\n\r\n* Fix Changelogs\r\n\r\n---------\r\n\r\nCo-authored-by: LocalIdentity <LocalIdentity@users.noreply.github.com>\r\nCo-authored-by: LocalIdentity <localidentity2@gmail.com>"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/4c5cddcd8fd5cf504bf745bfa2b3b7c2d5cf5aec",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/4c5cddcd8fd5cf504bf745bfa2b3b7c2d5cf5aec",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/4c5cddcd8fd5cf504bf745bfa2b3b7c2d5cf5aec/comments",
+        "author": {
+            "login": "github-actions[bot]",
+            "id": 41898282,
+            "node_id": "MDM6Qm90NDE4OTgyODI=",
+            "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+            "html_url": "https://github.com/apps/github-actions",
+            "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+            "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+            "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+            "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+            "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+            "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+            "type": "Bot",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "1f6a0f3701d644a151d6c768f69a5fe419bef85d",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/1f6a0f3701d644a151d6c768f69a5fe419bef85d",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/1f6a0f3701d644a151d6c768f69a5fe419bef85d"
+            }
+        ]
+    },
+    {
+        "sha": "1f6a0f3701d644a151d6c768f69a5fe419bef85d",
+        "node_id": "C_kwDODEvm_doAKDFmNmEwZjM3MDFkNjQ0YTE1MWQ2Yzc2OGY2OWE1ZmU0MTliZWY4NWQ",
+        "commit": {
+            "author": {
+                "name": "Paliak",
+                "email": "91493239+Paliak@users.noreply.github.com",
+                "date": "2024-01-23T17:59:22Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-01-23T17:59:22Z"
+            },
+            "message": "Fix support gem crosslink issues. (#6707)\n\n* FIX: update sort cache not finding main skill\r\n\r\n* FIX: crosslinking not working\r\n\r\n* FIX: extra whitespace\r\n\r\n* FIX: remove outdated comments\r\n\r\n* FIX: crosslink mods not working for gem sort\r\n\r\n* FIX: use cached canSupport for a minor speedup\r\n\r\n* FIX: quality always being Defualt for tooltip\r\n\r\n* FIX: slot matching not working with weapon swaps\r\n\r\n* FIX: update tests to reflect different effective group skill count\r\n\r\n* FIX:If theres an active gem in the current group only show supports for\r\nthat gem\r\n\r\n* Updating gem support finding logic\r\n\r\n* fix: updated logic for gem recommendations in socketgroups\r\n\r\n* FIX: spelling, comments\r\n\r\n* Fix duplicate gems and skill tab tooltips\r\n\r\n* Updating gem support finding logic\r\n\r\n* fix: updated logic for gem recommendations in socketgroups\r\n\r\n* fix: gem dropdown tooltip displaying only top gem\r\n\r\n* fix: resolve issue with duplicate support gems and fix socketGroup tooltips\r\n\r\n* Revert \"FIX: update tests to reflect different effective group skill count\"\r\n\r\nThis reverts commit 87ed94549db670a2834d51c155b14f9d748ed85c.\r\n\r\n* FIX: noSupport flag not working\r\n\r\n* FIX: pull out superseded loops into addBestSupport function\r\n\r\n---------\r\n\r\nCo-authored-by: LocalIdentity <localidentity2@gmail.com>\r\nCo-authored-by: Sida Wang <42928828+sida-wang@users.noreply.github.com>\r\nCo-authored-by: LocalIdentity <31035929+LocalIdentity@users.noreply.github.com>",
+            "tree": {
+                "sha": "56b63eb296aec08c8a8efcc227dcb77f85028c07",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/trees/56b63eb296aec08c8a8efcc227dcb77f85028c07"
+            },
+            "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/git/commits/1f6a0f3701d644a151d6c768f69a5fe419bef85d",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJlr/56CRC1aQ7uu5UhlAAAlpoQADOXCLm/RCQiTYH5uDyirGR5\ns4aNWNQ79mZ2kPQePQJzlfHhf/j+ReIG0+N+DXI1UpMhLwciBLNawOPAFwfiVNYW\n16EPit6UfDooyW+2xp1IJLHWAmcwZPqc23uMYM1iyw1Od/BLbBlss/GfeK4Wtq+q\n+HUMguNsCO9Y/YCfnpsyqcEoR8QJJV0XuTOjETjbcxCGa8KGjMNvuo/LYH4kAXVY\ntWird0xw515WbGlTq7tcg5wKl3X7XNpEVBIrJEMZ4vNEZ0naEnhBfoYVVla1PUps\nvMEXhgvxliaUZqfRYiOqixrH9lC9oeFd0U1348cFfDuDJUL+Gy78jPzuVKQcB6lP\nayzS5t9GfXppYqHoX2z38kbeYJMDbtlPHvb4i4eMKVL5s33iWOAHMdBD6CmgshIM\nc3fpqzCDVIqoppCbAOglc8x5Y+ItWLDtBQbLwSLuJeGIunoFrJ830eTYOykmsXYn\nCK4yKyK6BeNuDrLPEjmCD3CP/V01EXypqqj6BJ0kXzMPrVF9aLbaFzpXuhdhaZxx\nLuHZNXdwBidnU3RGwirOIE4AQ8er5SFv5CgJ27/LPopANqf++4ANOr0gUY4ULZAB\n2AdcZH+lR97QXsHf32lPhXb0ByXwiry2/lZtVoWflzeyh1hil15jugnMAaeS2Wv4\nG5WALKG79H96DRTqIVGB\n=Hpik\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 56b63eb296aec08c8a8efcc227dcb77f85028c07\nparent d48acc681c1f04eb0503d21b7f22b52dafb9034d\nauthor Paliak <91493239+Paliak@users.noreply.github.com> 1706032762 +0100\ncommitter GitHub <noreply@github.com> 1706032762 +1100\n\nFix support gem crosslink issues. (#6707)\n\n* FIX: update sort cache not finding main skill\r\n\r\n* FIX: crosslinking not working\r\n\r\n* FIX: extra whitespace\r\n\r\n* FIX: remove outdated comments\r\n\r\n* FIX: crosslink mods not working for gem sort\r\n\r\n* FIX: use cached canSupport for a minor speedup\r\n\r\n* FIX: quality always being Defualt for tooltip\r\n\r\n* FIX: slot matching not working with weapon swaps\r\n\r\n* FIX: update tests to reflect different effective group skill count\r\n\r\n* FIX:If theres an active gem in the current group only show supports for\r\nthat gem\r\n\r\n* Updating gem support finding logic\r\n\r\n* fix: updated logic for gem recommendations in socketgroups\r\n\r\n* FIX: spelling, comments\r\n\r\n* Fix duplicate gems and skill tab tooltips\r\n\r\n* Updating gem support finding logic\r\n\r\n* fix: updated logic for gem recommendations in socketgroups\r\n\r\n* fix: gem dropdown tooltip displaying only top gem\r\n\r\n* fix: resolve issue with duplicate support gems and fix socketGroup tooltips\r\n\r\n* Revert \"FIX: update tests to reflect different effective group skill count\"\r\n\r\nThis reverts commit 87ed94549db670a2834d51c155b14f9d748ed85c.\r\n\r\n* FIX: noSupport flag not working\r\n\r\n* FIX: pull out superseded loops into addBestSupport function\r\n\r\n---------\r\n\r\nCo-authored-by: LocalIdentity <localidentity2@gmail.com>\r\nCo-authored-by: Sida Wang <42928828+sida-wang@users.noreply.github.com>\r\nCo-authored-by: LocalIdentity <31035929+LocalIdentity@users.noreply.github.com>"
+            }
+        },
+        "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/1f6a0f3701d644a151d6c768f69a5fe419bef85d",
+        "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/1f6a0f3701d644a151d6c768f69a5fe419bef85d",
+        "comments_url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/1f6a0f3701d644a151d6c768f69a5fe419bef85d/comments",
+        "author": {
+            "login": "Paliak",
+            "id": 91493239,
+            "node_id": "MDQ6VXNlcjkxNDkzMjM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91493239?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paliak",
+            "html_url": "https://github.com/Paliak",
+            "followers_url": "https://api.github.com/users/Paliak/followers",
+            "following_url": "https://api.github.com/users/Paliak/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Paliak/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Paliak/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Paliak/subscriptions",
+            "organizations_url": "https://api.github.com/users/Paliak/orgs",
+            "repos_url": "https://api.github.com/users/Paliak/repos",
+            "events_url": "https://api.github.com/users/Paliak/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Paliak/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "d48acc681c1f04eb0503d21b7f22b52dafb9034d",
+                "url": "https://api.github.com/repos/PathOfBuildingCommunity/PathOfBuilding/commits/d48acc681c1f04eb0503d21b7f22b52dafb9034d",
+                "html_url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/commit/d48acc681c1f04eb0503d21b7f22b52dafb9034d"
+            }
+        ]
+    }
+]

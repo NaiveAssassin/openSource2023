@@ -1,16 +1,57 @@
 import requests
-from bs4 import BeautifulSoup
+import json
 
-file_path = r"issue_title_history.txt"
-for i in range(1, 78):
-    url = 'https://github.com/alibaba/arthas/issues?page=' + str(i) + '&q=is%3Aissue'
 
-    content = requests.get(url).text
-    soup = BeautifulSoup(content)
-    all_issue = soup.findAll("a", attrs={
-        "class": "Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title"})
-    with open(file_path, "a", encoding="utf-8") as file:
-        for item in all_issue:
-            file.write(str(item.string))
-            file.write("\n")
-    file.close()
+# 获取全部信息
+def get_data(owner, name, type):
+    url = f"https://api.github.com/repos/{owner}/{name}/{type}"
+    headers = {
+        'Accept': 'application/vnd.github.v3+json',
+        'Authorization': 'token ' + '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',
+    }
+    issues = []
+    params = {"state": "all"}
+    response = requests.get(url, headers=headers)
+    print("getit")
+    if response.status_code == 200:
+        issues += response.json()
+        print("getit")
+        # 检查是否有更多的页码，如果有，继续请求下一页的信息
+        while "Link" in response.headers and 'rel="next"' in response.headers["Link"]:
+            print("getit11")
+            for row in response.headers["Link"].split(", "):
+                if 'rel="next"' in row:
+                    next_page_url = row.split("; ")[0].strip("<>")
+                    print("getit22")
+            response = requests.get(next_page_url, headers=headers)
+            if response.status_code == 100:
+                issues += response.json()
+
+        # 返回获取的所有信息
+        return issues
+
+    # 如果请求失败，则返回空列表
+    else:
+        return []
+
+
+def save(data, type):
+    # 将所有信息保存到文件中
+    if type == "issues":
+        with open("issues.json", "w", encoding="utf-8") as file:
+            file.write(json.dumps(data, indent=4))
+    elif type == "commits":
+        with open("commits.json", "w", encoding="utf-8") as file:
+            file.write(json.dumps(data, indent=4))
+    else:
+        print("数据错误")
+
+
+owner = "PathOfBuildingCommunity"  # 用户名
+name = "PathOfBuilding"  # 仓库名
+type = "issues"  # issues / commits
+print("datastart")
+data = get_data(owner, name, type)
+print("dateget")
+save(data, type)
+print("获取{}条data".format(len(data)))
